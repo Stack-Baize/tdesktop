@@ -1592,8 +1592,3 @@ aiComposeBoxInfoButton: IconButton(boxTitleClose) {
 aiComposeShadowOpacity: 0.3;
 
 createAiSelectorArrowsIcon: icon{{ "arrows_select", windowSubTextFg }};
-
-communityBoxManage: IconButton(boxTitleClose) {
-	icon: icon {{ "menu/manage", boxTitleCloseFg }};
-	iconOver: icon {{ "menu/manage", boxTitleCloseFgOver }};
-}
